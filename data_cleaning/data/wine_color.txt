@@ -1,0 +1,298 @@
+Variety
+Agiorgitiko: Red
+Aglianico: Red
+Albana: White
+Albariño: White
+Albarossa: Red
+Alfrocheiro: Red
+Alicante Bouschet: Red
+Aligoté: White
+Alvarinho: White
+Alvarinho-Chardonnay: White
+Ansonica: White
+Antão Vaz: White
+Aragonês: Red
+Arinto: White
+Arneis: White
+Austrian Red Blend: Red
+Austrian White Blend: White
+Baga: Red
+Barbera: Red
+Bical: White
+Black Muscat: Red
+Blanc du Bois: White
+Blaufränkisch: Red
+Bobal: Red
+Bonarda: Red
+Bordeaux-style Red Blend: Red
+Bordeaux-style White Blend: White
+Brachetto: Red
+Bual: Fortified (Amber)
+Cabernet Blend: Red
+Cabernet Franc: Red
+Cabernet Franc-Malbec: Red
+Cabernet Franc-Merlot: Red
+Cabernet Moravia: Red
+Cabernet Sauvignon: Red
+Cabernet Sauvignon-Cabernet Franc: Red
+Cabernet Sauvignon-Carmenère: Red
+Cabernet Sauvignon-Merlot: Red
+Cabernet Sauvignon-Shiraz: Red
+Cabernet Sauvignon-Syrah: Red
+Carignan: Red
+Carignane: Red
+Carineña: Red
+Carmenère: Red
+Carmenère-Syrah: Red
+Casavecchia: Red
+Castelão: Red
+Catalanesca: Red
+Catarratto: White
+Centesimino: Red
+Cesanese d'Affile: Red
+Chambourcin: Red
+Champagne Blend: White
+Chancellor: Red
+Chardonnay: White
+Chardonnay-Viognier: White
+Chelois: Red
+Chenin Blanc: White
+Chenin Blanc-Chardonnay: White
+Chenin Blanc-Sauvignon Blanc: White
+Chenin Blanc-Viognier: White
+Cinsault: Red
+Coda di Volpe: White
+Colombard: White
+Colombard-Sauvignon Blanc: White
+Cortese: White
+Corvina: Red
+Corvina, Rondinella, Molinara: Red
+Dolcetto: Red
+Dornfelder: Red
+Durif: Red
+Encruzado: White
+Erbaluce: White
+Falanghina: White
+Fer Servadou: Red
+Fiano: White
+Frappato: Red
+Friulano: White
+Fumé Blanc: White
+Furmint: White
+G-S-M: Red
+Gaglioppo: Red
+Gamay: Red
+Gamay Noir: Red
+Garganega: White
+Garnacha: Red
+Garnacha Blanca: White
+Garnacha Tintorera: Red
+Garnacha-Cabernet: Red
+Garnacha-Cariñena: Red
+Garnacha-Monastrell: Red
+Garnacha-Syrah: Red
+Gelber Muskateller: White
+Gewürztraminer: White
+Glera: White
+Godello: White
+Gouveio: White
+Graciano: Red
+Grauburgunder: White
+Grecanico: White
+Grechetto: White
+Greco: White
+Grenache: Red
+Grenache Blanc: White
+Grenache Blend: Red or White
+Grenache-Shiraz: Red
+Grenache-Syrah: Red
+Grillo: White
+Groppello: Red
+Gros Manseng: White
+Gros and Petit Manseng: White
+Grüner Veltliner: White
+Hondarrabi Zuri: White
+Insolia: White
+Jacquère: White
+Jampal: White
+Kalecik Karasi: Red
+Kekfrankos: Red
+Kerner: White
+Lagrein: Red
+Lambrusco: Red
+Lambrusco Grasparossa: Red
+Loin de l'Oeil: White
+Loureiro: White
+Macabeo: White
+Malbec: Red
+Malbec-Cabernet Franc: Red
+Malbec-Cabernet Sauvignon: Red
+Malbec-Merlot: Red
+Malbec-Tannat: Red
+Malvasia: White
+Malvasia Bianca: White
+Malvasia di Candia: White
+Manzoni: White
+Marsanne: White
+Mataro: Red
+Melon: White
+Mencía: Red
+Meritage: Red
+Merlot: Red
+Merlot-Cabernet: Red
+Merlot-Cabernet Franc: Red
+Merlot-Cabernet Sauvignon: Red
+Merlot-Malbec: Red
+Merlot-Tannat: Red
+Monastrell: Red
+Monastrell-Syrah: Red
+Montepulciano: Red
+Moscatel: White
+Moscato: White
+Moscato Giallo: White
+Moschofilero: White
+Mourvèdre: Red
+Muscadelle: White
+Muscat: White
+Muscat Blanc: White
+Muscat Canelli: White
+Müller-Thurgau: White
+Nebbiolo: Red
+Negrette: Red
+Negroamaro: Red
+Nerello Mascalese: Red
+Nero d'Avola: Red
+Nero di Troia: Red
+Norton: Red
+Nosiola: White
+Nuragus: White
+Orange Muscat: Orange
+Pallagrello: Red
+Palomino: White
+Passerina: White
+Pecorino: White
+Pedro Ximénez: White
+Petit Manseng: White
+Petit Verdot: Red
+Petite Sirah: Red
+Petite Verdot: Red
+Picapoll: White
+Picpoul: White
+Pinot Auxerrois: White
+Pinot Bianco: White
+Pinot Blanc: White
+Pinot Blanc-Chardonnay: White
+Pinot Grigio: White
+Pinot Gris: White
+Pinot Meunier: Red
+Pinot Noir: Red
+Pinot Nero: Red
+Pinotage: Red
+Port: Red
+Portuguese Red: Red
+Portuguese Rosé: Rosé
+Portuguese Sparkling: Sparkling
+Portuguese White: White
+Premsal: White
+Prieto Picudo: Red
+Primitivo: Red
+Prosecco: Sparkling
+Provence Red Blend: Red
+Provence White Blend: White
+Ramisco: Red
+Red Blend: Red
+Refosco: Red
+Rhône-style Red Blend: Red
+Rhône-style White Blend: White
+Ribolla Gialla: White
+Riesling: White
+Robola: White
+Rosado: Pink
+Rosato: Pink
+Rosé: Pink
+Roter Traminer: Red
+Rotgipfler: White
+Roussanne: White
+Roussanne-Viognier: White
+Ruché: Red
+Sagrantino: Red
+Sangiovese: Red
+Sangiovese Grosso: Red
+Saperavi: Red
+Sauvignon: White
+Sauvignon Blanc: White
+Sauvignon Blanc-Semillon: White
+Sauvignon Gris: White
+Scheurebe: White
+Schiava: Red
+Semillon-Sauvignon Blanc: White
+Seyval Blanc: White
+Sherry: Amber
+Shiraz: Red
+Shiraz-Cabernet: Red
+Shiraz-Cabernet Sauvignon: Red
+Shiraz-Grenache: Red
+Shiraz-Viognier: Red
+Siria: Red
+Sparkling Blend: White or Rosé
+Spätburgunder: Red
+St. Laurent: Red
+St. Vincent: Red
+Susumaniello: Red
+Sylvaner: White
+Symphony: White
+Syrah: Red
+Syrah-Cabernet: Red
+Syrah-Cabernet Sauvignon: Red
+Syrah-Grenache: Red
+Syrah-Mourvèdre: Red
+Syrah-Petite Sirah: Red
+Syrah-Tempranillo: Red
+Syrah-Viognier: Red
+Sémillon: White
+Tannat: Red
+Tannat-Cabernet: Red
+Tannat-Cabernet Franc: Red
+Tempranillo: Red
+Tempranillo Blanco: White
+Tempranillo Blend: Red or White
+Tempranillo-Cabernet Sauvignon: Red
+Tempranillo-Garnacha: Red
+Teran: Red
+Teroldego: Red
+Tinta Fina: Red
+Tinta Madeira: Red
+Tinta de Toro: Red
+Tinto Fino: Red
+Tocai: White
+Tocai Friulano: White
+Tokaji: White
+Tokay Pinot Gris: White
+Torrontés: White
+Touriga Nacional: Red
+Touriga Nacional-Cabernet Sauvignon: Red
+Traminer: White
+Traminette: White
+Trebbiano: White
+Trebbiano di Lugana: White
+Trepat: Red
+Turbiana: White
+Ugni Blanc: White
+Verdejo: White
+Verdelho: White
+Verdicchio: White
+Vermentino: White
+Vernaccia: White
+Vidal: White
+Vidal Blanc: White
+Viognier: White
+Viognier-Roussanne: White
+Viura: White
+Weissburgunder: White
+Welschriesling: White
+White Blend: White
+Xarel-lo: White
+Xinomavro: Red
+Zierfandler: White
+Zinfandel: Red
+Zweigelt: Red

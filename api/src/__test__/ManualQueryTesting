@@ -1,0 +1,35 @@
+//This file is a list a manual query tests and expected results
+
+//TEST that db is set up
+SELECT * FROM reviews; 
+//Expected: 6 properties named id, rating, reviewer, review_text, title, wine_id
+
+SELECT * FROM `users`
+//Expected: 5 properties named id, username, email, password, google_uuid
+
+SELECT * FROM `wines`
+//Expected: 10 properties named id, price, name, region, province, country, variety, winery, color, attributes
+
+SELECT * FROM `wine_lists`
+//Expected: 5 properties named id, wines, uiser_id, last_modified
+
+//TEST that wines has populated 
+SELECT * FROM wines;
+//Expected: non-empty list, 7190 results
+
+//TEST item retrieval
+SELECT * FROM wines WHERE id = 1
+Expected: 1 result = Le Méal Ermitage
+
+SELECT * FROM wines WHERE price = 100
+//Expected: 44 results 
+
+SELECT * FROM `wines` WHERE province = 'California' AND country = 'US';
+//Expected: 1876 results
+
+//TEST saving and deleting items
+INSERT INTO wines (id, price, name) VALUES (10000, 0, 'TEST') 
+//Expected: new item with given VALUES
+
+DELETE FROM `wines` WHERE id = 10000;
+//Expected: previously added entry to be deleted.
